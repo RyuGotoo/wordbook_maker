@@ -1,0 +1,290 @@
+
+AdChoices
+Login
+Startups
+Apps
+Gadgets
+Videos
+Audio
+Extra Crunch
+Newsletters
+Events
+Advertise
+—
+Crunchbase
+More
+Search
+Apple
+Enterprise
+Transportation
+Facebook privacy
+
+Zuckerberg misunderstands the huge threat of TikTok
+Why it’s harder to copy than Snapchat
+Josh Constine@joshconstine / 8:18 am JST • October 2, 2019
+ Comment
+Mark Zuckerberg TikTok
+“It’s almost like the Explore Tab that we have on Instagram,” said Facebook CEO Mark Zuckerberg in leaked audio of him describing TikTok during an all-hands meeting. But it’s not. TikTok  represents a new form of social entertainment that’s vastly different from the lifelogging of Instagram where you can just take a selfie, show something pretty or pan around what you’re up to. TikToks are premeditated, storyboarded and vastly different than the haphazard Stories on Insta.
+
+That’s why Zuckerberg’s comments cast a dark shadow over the future of the Facebook  family of apps. How can it beat what it doesn’t understand? He certainly can’t ignore it. Facebook’s copycat Lasso has been installed just 425,000 times since it launched in November, while TikTok has 640 million installs in the same period outside of China. Oh, and TikTok has 1.4 billion total installs beyond China to date.
+
+TikTok Screenshots
+TikTok
+
+
+Casey Newton of The Verge today published two hours of audio and transcripts from two internal-only all-hands Q&As held by Zuckerberg at Facebook in July. His comments touch on the company’s plan to fight being broken up by regulators, especially if Elizabeth Warren becomes president. He thinks Facebook would win, but on resorting to suing the government, he says “does that still suck for us? Yeah.” Zuckerberg also describes how Facebook is working to launch a payments product in Mexico and elsewhere by year’s end as Libra deals with regulatory scrutiny.
+
+But beyond his comments on regulation, it’s his pigeonholing of TikTok that’s most alarming. It foreshadows Facebook failing to win one of the core social feeds that its business depends on. Perhaps his perspective on the competitor is evolving, but the leak portrays him as thinking TikTok is just the next Snapchat Stories to destroy.
+
+Zuckeberg’s thoughts on TikTok
+Here’s what Zuckerberg said about TikTok during the internal Q&A sessions, (emphasis mine):
+
+So yeah. I mean, TikTok is doing well. One of the things that’s especially notable about TikTok is, for a while, the internet landscape was kind of a bunch of internet companies that were primarily American companies. And then there was this parallel universe of Chinese companies that pretty much only were offering their services in China. And we had Tencent who was trying to spread some of their services into Southeast Asia. Alibaba has spread a bunch of their payment services to Southeast Asia. Broadly, in terms of global expansion, that had been pretty limited, and TikTok, which is built by this company Beijing ByteDance,  is really the first consumer internet product built by one of the Chinese tech giants that is doing quite well around the world. It’s starting to do well in the US, especially with young folks. It’s growing really quickly in India. I think it’s past Instagram now in India in terms of scale. So yeah, it’s a very interesting phenomenon.
+
+And the way that we kind of think about it is: it’s married short-form, immersive video with browse. So it’s almost like the Explore Tab that we have on Instagram,  which is today primarily about feed posts and highlighting different feed posts. I kind of think about TikTok as if it were Explore for stories, and that were the whole app. And then you had creators who were specifically working on making that stuff. So we have a number of approaches that we’re going to take towards this, and we have a product called Lasso that’s a standalone app that we’re working on, trying to get product-market fit in countries like Mexico, is I think one of the first initial ones. We’re trying to first see if we can get it to work in countries where TikTok is not already big before we go and compete with TikTok in countries where they are big.
+
+We’re taking a number of approaches with Instagram, including making it so that Explore is more focused on stories, which is increasingly becoming the primary way that people consume content on Instagram, as well as a couple of other things there. But yeah, I think that it’s not only one of the more interesting new phenomena and products that are growing. But in terms of the geopolitical implications of what they’re doing, I think it is quite interesting. I think we have time to learn and understand and get ahead of the trend. It is growing, but they’re spending a huge amount of money promoting it. What we’ve found is that their retention is actually not that strong after they stop advertising. So the space is still fairly nascent, and there’s time for us to kind of figure out what we want to do here. But I think this is a real thing. It’s good.
+
+To Zuckerberg’s credit, he’s not dismissing the threat. He knows TikTok is popular. He knows it’s growing in key international markets Facebook and Instagram depend on to keep user counts rising. And he knows his company needs to respond via its standalone clone Lasso and more.
+
+Facebook Lasso Screenshots
+Lasso
+
+
+But while TikToks might look like Stories because they’re vertical videos, and TikTok might algorithmically recommend them to people like Instagram Explore, it’s a whole ‘nother beast of a product and one that may be harder than it seems to copy.
+
+To crystallize why, let’s rewind to Snapchat. With the launch of Stories, it started to blow up with U.S. teens. Facebook’s attempts to clone it in standalone apps like Poke and Slingshot never gained traction. In fact, none of Facebook’s standalone apps have succeeded unless they splintered off an already popular piece of Facebook, like chat and users were forced to download them like Messenger. It wasn’t until Zuckerberg stuck his clone of Stories front-and-center atop Instagram and Facebook that Snapchat’s user count went from growing 18% per quarter to shrinking. There, Facebook used the same strategy laid out in Zuckerberg’s comments — push its good-enough clone in countries where the original isn’t popular yet.
+
+But Facebook was fortunate because Stories really wasn’t that dissimilar to the content users were already sharing on Instagram — tiny biographical snippets of their lives. Snapchat CEO Evan Spiegel had originally invented Stories as a vision of Facebook’s News Feed through the lens of an ephemeral camera. All users had to know was “I take the same videos, but shorter and sillier, posted more often and then they disappear.” The concept of Instagram and Facebook didn’t have to change. They were still about telling friends what you were up to. Choking off TikTok’s growth will be much more complicated.
+
+The rise of social entertainment…not media
+TikTok isn’t about you or what you’re doing. It’s about entertaining your audience. It’s not spontaneous chronicling of your real life. It’s about inventing characters, dressing up as someone else and acting out jokes. It’s not about privacy and friends, but strutting on the world stage. And it’s not about originality — the heart of Instagram. TikTok is about remixing culture — taking the audio from someone else’s clip and reimagining the gag in a new context by layering it atop a video you record.
+
+TikTok Remixes
+
+That makes TikTok distinct enough that it will be very difficult to shoehorn into Instagram or Facebook, even if they add the remixing functionality. Most videos on those apps aren’t designed to be templates for memes like TikToks are. Insta and Facebook’s social graphs are rooted in friendship and augmented by the beautiful and famous, but don’t encompass the new wave of amateur performers TikTok elevates. And since each post to the app becomes fodder for someone else’s creativity, a competitor starting from scratch doesn’t offer much to remix.
+
+That means a TikTok clone would have to be somewhat buried in Instagram or Facebook, rebuild a new social graph and retrain users’ understanding of these apps’ purpose…at the risk of distracting from their core use cases. This leaves Facebook hoping to grow its standalone TikTok clone Lasso, which TechCrunch scooped a year ago before it launched last November. But as we’ve seen, Facebook struggles growing brand new apps, and that effort is further hindered by its increasingly toxic brand and sheen of uncoolness. Nor does it help that Facebook must divert development resources to comply with all the new privacy and transparency obligations as part of its $5 billion FTC fine and settlement.
+
+The next feed
+Facebook’s best bet is to assess the future value of the ads it could run on a successful TikTok clone and apply some greater fraction of that grand sum to competing directly. It’s already made some smart additions to Lasso, like tutorials for how to remix and the option to add GIFs as sections of your video. But it’s still failing to gain serious traction in the U.S. While typical videos on the TikTok homepage where I’m spending a few hours a week have hundreds of thousands of Likes, the top ones I saw in my Lasso feed today received 70 or fewer.
+
+D246B3C4 0690 451E BD59 D66932C8FF7B
+TikTok trounces Facebook’s Lasso in the U.S. iOS App Store charts
+
+
+I had Sensor Tower run some analysis comparing TikTok with Lasso since its launch last November, and found that Lasso gets six downloads for every 1,000 for TikTok in the US. Some more stats:
+
+U.S. Total Downloads Since November: Lasso – 250,000 // TikTok – 41.3 million
+U.S. Downloads Per Day Since November: Lasso – 760 // TikTok – 126,000
+Average U.S. Google Play Social App Chart Ranking: Lasso – #155 // TikTok – #2
+Beyond the U.S., Lasso has only launched in one other market, Mexico in April, where it’s been faring better but could hardly even be considered a competitor to TikTok. Facebook needs to lean harder into Lasso:
+
+Mexico Total Downloads Since April: Lasso – 175,000 // TikTok – 3.3 million
+Mexico Downloads Per Day Since November: Lasso – 1,000 // TikTok – 19,000
+Facebook Lasso Logo
+
+Zuckerberg may need to find a coherent place for TikTok-style features inside Instagram and potentially Facebook. That could be another horizontal row of previews like with Stories and/or a header on the Explore page dedicated to premeditated content. Certainly something more prominent than a single button like IGTV that still no one is requesting. One opportunity to best TikTok would be building a dedicated remix source browser into the Stories camera to help users find content to put their own spin on.
+
+Facebook will also need to buy out top TikTok creators to make videos for it instead, and even quasi-hire some of the most prolific video meme or challenge inventors to give users trends to jump on rather than just one-off clips to watch. Its failure to offer IGTV stars monetization has led many to ignore that platform, and it can’t afford that again.
+
+If Zuckerberg approaches TikTok as merely an algorithmic video recommender like Explore, Facebook will miss out on owning the social entertainment feed. If he doesn’t decisively move to challenge TikTok soon, its catalog of content to remix will grow insurmountable and it will own the whole concept of short-form performative video. Snapchat’s insistence on ephemerality makes it incompatible with remixing, and YouTube isn’t nimble enough to reinvent itself.
+
+If no American company can step up, we could see our interest data, faces and attention forfeited to an app that while delightful to use, heralds Chinese political values at odds with our own. If only Twitter hadn’t killed Vine.
+
+View Comments (6)
+Disrupt SF 2020
+Pre-register to get $500 off
+San Francisco
+Sep 14 - 16
+
+Sign Up Now
+
+AdChoices
+Sign up for Newsletters
+See all newsletters(opens in a new window)
+
+The Daily Crunch
+Week in Review
+Startups Weekly
+The Station
+Extra Crunch Roundup
+Event Updates
+Sponsorship Insider
+Crunchbase Daily
+
+Email
+Subscribe
+(opens in a new window)(opens in a new window)(opens in a new window)(opens in a new window)
+https://tcrn.ch/2pb0VnL
+Copy
+Tags
+AppsEntertainmentMobileOpinionSocialStartupsTCVideo
+Startup Battlefield SF 2019 Winner: Render
+TC Video
+
+
+Zuckerberg misunderstands the huge threat of TikTok
+Josh Constine
+
+Extra Crunch
+Where top VCs are investing in edtech
+Eric Peckham
+
+Microsoft introduces Windows 10X for dual-screen devices
+Frederic Lardinois
+
+Microsoft just announced a dual-screen Surface phone
+Brian Heater
+
+Disrupt SF 2020
+Pre-register to get $500 off
+San Francisco
+Sep 14 - 16
+
+Sign Up Now
+The Latest
+Report: WeWork cofounder Adam Neumann may have to unload property to pay off a giant loan
+Connie Loizos
+8:19 am JST • October 5, 2019
+Adam Neumann may be out of the daily flow of WeWork, but he seemingly remains top of mind to some of the company’s bankers. According to a new Business Insider piece, Neumann is working with ...
+
+
+And the winner of Startup Battlefield at Disrupt SF 2019 is… Render
+Romain Dillet
+8:16 am JST • October 5, 2019
+Startups participating in the Startup Battlefield have all been hand-picked to participate in our highly competitive startup competition. They all presented in front of multiple groups of VCs and t...
+
+disrupt winner 1618
+NASA calls for input on Moon spacesuits and plans to source them commercially in future
+Darrell Etherington
+8:07 am JST • October 5, 2019
+NASA issues a new formal request for info from industry specifically around spacesuits. The agency is hoping to gather information in order to help it figure out a future path for acquisition of sp...
+
+xemu development unit 0001
+$35M-funded Omni rentals in acqui-hire talks with Coinbase
+Josh Constine
+7:17 am JST • October 5, 2019
+Physical storage-turned-rentals startup Omni is dealing with layoffs today, two sources familiar with the situation tell TechCrunch. Omni just shed seven operations team members. The startup is in ...
+
+Omni Bike Store Rentals
+
+Extra Crunch
+HTC’s new CEO discusses the phonemaker’s future
+On September 17, HTC announced that cofounder Cher Wang would be stepping down as CEO. In her pla...
+
+Brian Heater
+7:00 am JST • October 5, 2019
+Startup Battlefield: Finals &#8211; OmniVis
+Startup Battlefield: Finals – OmniVis
+Worldwide, cholera causes 5 million infections annually, with $2 billion spent every year in trea...
+
+TC Video
+6:58 am JST • October 5, 2019
+Startup Battlefield: Finals &#8211; Orbit Fab
+Startup Battlefield: Finals – Orbit Fab
+Orbit Fab is building a supply chain for fuel in Earth orbit. Over $3 billion is spent annually l...
+
+TC Video
+6:48 am JST • October 5, 2019
+Extra Crunch
+How ‘the Internet broke America’ with The New Yorker’s Andrew Marantz
+Greg Epstein
+6:44 am JST • October 5, 2019
+When Elizabeth Warren took on Mark Zuckerberg and Facebook earlier this week, it was a low moment for what New Yorker writer Andrew Marantz calls “techno-utopianism.” That the progressive, populist...
+
+GettyImages 499176787
+Sign up for Newsletters
+See all newsletters(opens in a new window)
+
+The Daily Crunch
+Week in Review
+Startups Weekly
+The Station
+Extra Crunch Roundup
+Event Updates
+Sponsorship Insider
+Crunchbase Daily
+
+Email
+Subscribe
+Startup Battlefield: Finals &#8211; Traptic
+Startup Battlefield: Finals – Traptic
+Traptic builds giant farming robots to save the world’s food production system from a critical la...
+
+TC Video
+6:35 am JST • October 5, 2019
+Where we’ll be next
+Startup Battlefield: Finals &#8211; StrattyX
+Startup Battlefield: Finals – StrattyX
+StrattyX lets anyone take advantage of algorithmic trading. Historically, hedge funds and banks l...
+
+TC Video
+6:33 am JST • October 5, 2019
+Startup Battlefield SF 2019 Winner: Render
+Startup Battlefield SF 2019 Winner: Render
+Render wants to take on the world’s biggest cloud vendors by offering developers a cheaper altern...
+
+TC Video
+6:33 am JST • October 5, 2019
+PayPal is the first company to drop out of the Facebook-led Libra Association
+Jonathan Shieber, Ingrid Lunden
+5:44 am JST • October 5, 2019
+PayPal has become the first company to walk away officially from Facebook’s Libra, a cryptocurrency and related association that it announced earlier this year with a chain of nearly 30 big n...
+
+Libra Association Founding Partners
+Annual Extra Crunch members can receive $1,000 in AWS credits
+Travis Bernard
+5:43 am JST • October 5, 2019
+We’re excited to announce a new partnership with Amazon Web Services for annual members of Extra Crunch. Starting today, qualified annual members can receive $1,000 in AWS credits. You also m...
+
+EC AWS1
+Extra Crunch
+As Sinai Ventures returns first fund, partner Jordan Fudge talks new LA focus
+Eric Peckham
+5:08 am JST • October 5, 2019
+At age 27, Jordan Fudge is quietly making a splash in the VC world. Fudge is the managing partner of Sinai Ventures, a multi-stage VC fund that manages $100 million and has more than 80 portfolio c...
+
+image1 1
+Snap CEO isn’t expecting much from Facebook antitrust investigations
+Lucas Matney
+4:42 am JST • October 5, 2019
+Facebook’s relentless feature copy of Snapchat has been seen as one of the chief examples of the company’s competitive overreach, but Snap CEO Evan Spiegel isn’t sure whether anti...
+
+Evan Spiegel SnapDSC04002
+Amid mounting concerns around vaping cannabis, entrepreneurs say regulators need to step up
+Jonathan Shieber
+4:27 am JST • October 5, 2019
+As concerns over the safety of vaping products for cannabis sweeps across the country, executives in the industry are passing the buck to regulators to come up with a solution. The need for nationa...
+
+disrupt kevin mccarty bharat vasan wayv pax 1273
+Extra Crunch
+How you shouldn’t handle your data breach
+Zack Whittaker
+4:06 am JST • October 5, 2019
+So you’ve had a data breach. Don’t worry, it’s not just you. These days it happens to everyone, no matter how large or small your company is. It’s almost inevitable, some mi...
+
+GettyImages 532124470
+Top VCs on how to break into venture capital
+Kate Clark
+3:56 am JST • October 5, 2019
+These are the two most common paths to venture.
+
+disrupt ann miura ko theresia gouw 1318
+Daily Crunch: Facebook faces government pressure over encryption
+Anthony Ha
+3:17 am JST • October 5, 2019
+The Daily Crunch is TechCrunch’s roundup of our biggest and most important stories. If you’d like to get this delivered to your inbox every day at around 9am Pacific, you can subscribe ...
+
+
+Amid AR/VR experiments, Apple buys UK visual effects studio
+Lucas Matney
+3:08 am JST • October 5, 2019
+Apple has reportedly acquired U.K. special effects studio IKinema, a startup that may be useful in Apple’s quest to bolster its mobile devices with AR special effects and in its more far-flun...
+
+unnamed
+Load More
+
+AdChoices
+TechCrunchPrivacy PolicyAbout Our AdsCode of ConductTerms of Service
+© 2013-2019 Verizon Media. All rights reserved. Powered by WordPress VIP(opens in a new window). Fonts by TypeKit(opens in a new window).
